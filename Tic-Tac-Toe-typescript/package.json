@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/BornaSepic/Tic-Tac-Toe#readme",
   "devDependencies": {
-    "typescript": "^3.7.4"
+    "typescript": "^5.2.2"
   }
 }
